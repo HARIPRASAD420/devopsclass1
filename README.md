@@ -1,2 +1,0 @@
-# devopsclass1
-createRepositary
