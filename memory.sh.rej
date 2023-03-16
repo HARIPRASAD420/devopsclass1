@@ -1,0 +1,5 @@
+diff a/memory.sh b/memory.sh	(rejected hunks)
+@@ -1,3 +1,2 @@
+ echo "*************************Display Mem Info**********************"
+ free -m
+-echo "**************************love you hari***********************"
